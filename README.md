@@ -1,2 +1,3 @@
 # zs-pkg-go-fhir
-ZarishSphere shared Go library: go-fhir
+
+Generated directly from internal PRD specification.
